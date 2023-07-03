@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.js, express and MongoDB**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **FullStack Development**
 
 - 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1sgbjrEU8Np_Y_6TOVFuIUwGFKxegfb36/view?usp=share_link">My Resume</a>
 
